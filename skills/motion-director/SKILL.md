@@ -1,7 +1,7 @@
 ---
 name: motion-director
 description: Orchestrates visual pacing, motion personalities, macro-to-micro camera choreography, and scene transitions for high-fidelity motion graphics. Use when directing or reviewing promotional videos, product launch films, SaaS explainers, and kinetic titles.
-license: Apache-2.0
+license: MIT
 ---
 
 # Motion Director

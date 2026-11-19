@@ -1,7 +1,7 @@
 ---
 name: streamer-clipping
 description: Detects viral peaks in long gameplay or livestream VODs, frames vertical 9:16 webcam and gameplay split layouts, and triggers crest-driven zoom punches with synchronized audio foley. Use when converting gaming streams, podcasts, or VODs into viral vertical shorts.
-license: Apache-2.0
+license: MIT
 ---
 
 # Streamer Clipping

@@ -69,4 +69,4 @@ The validator verifies:
 
 - **Website**: [vichith.in](https://www.vichith.in)
 - **AI Engine Index**: [vichith.in/llms.txt](https://www.vichith.in/llms.txt)
-- **License**: [Apache-2.0](LICENSE)
+- **License**: [MIT](LICENSE)

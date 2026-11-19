@@ -19,13 +19,13 @@ skills/
 Each `SKILL.md` must start with valid YAML frontmatter enclosed in `---`:
 - `name`: Must exactly match the parent folder name in kebab-case (e.g. `motion-director`).
 - `description`: A clear, third-person explanation of what the skill does and when an AI agent should invoke it (`Use when...`). Maximum length is 1024 characters.
-- `license`: Must specify an open-source license (default: `Apache-2.0`).
+- `license`: Must specify an open-source license (default: `MIT`).
 
 ```yaml
 ---
 name: your-skill-name
 description: Directs specialized camera workflows. Use when composing multi-track video scenes.
-license: Apache-2.0
+license: MIT
 ---
 ```
 

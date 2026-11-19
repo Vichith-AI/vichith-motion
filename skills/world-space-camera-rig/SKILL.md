@@ -1,7 +1,7 @@
 ---
 name: world-space-camera-rig
 description: Controls 2.5D cinematographic camera trajectories across virtual panoramic stages using focus zooms, waypoint pans, resting drifts, and whip transitions. Use when framing complex multi-card UI layouts, architectural diagrams, or scene-to-scene camera travel.
-license: Apache-2.0
+license: MIT
 ---
 
 # World-Space Camera Rig

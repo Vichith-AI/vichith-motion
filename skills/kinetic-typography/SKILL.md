@@ -1,7 +1,7 @@
 ---
 name: kinetic-typography
 description: Generates high-impact kinetic typography, word-level reveals, speech-locked captions, and slot-wheel animations with Indic Akshara syllable safety. Use when animating titles, captions, dynamic lower-thirds, or spoken voiceover subtitles.
-license: Apache-2.0
+license: MIT
 ---
 
 # Kinetic Typography

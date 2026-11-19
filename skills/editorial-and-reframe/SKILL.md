@@ -1,7 +1,7 @@
 ---
 name: editorial-and-reframe
 description: Reframes horizontal 16:9 footage into vertical 9:16 mobile formats using 1-Euro adaptive subject tracking, collision-safe slot lanes, and title-safe boundary enforcement. Use when adapting widescreen videos, reframing talking heads, or positioning graphic overlays.
-license: Apache-2.0
+license: MIT
 ---
 
 # Editorial and Reframe
